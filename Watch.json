@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Tolex Smart Band",
+        "img" : "https://i.postimg.cc/9XLXt804/pix9.png",
+        "description" : "Bluetooth, Calling, Health Tracker",
+        "price" : "750"
+    },
+    {
+        "name": "Tolex Smart Watch",
+        "img" : "https://i.postimg.cc/FsmTch8g/pix5.jpg",
+        "description" : "Bluetooth, Calling, Health Tracker",
+        "price" : "1050"
+    },
+    {
+        "name": "Tolex Smart watch Pro",
+        "img" : "https://i.postimg.cc/VkKZm279/pix4.jpg",
+        "description" : "Bluetooth, Calling, Health Tracker",
+        "price" : "1500"
+    },
+    {
+        "name": "Tolex Edition",
+        "img" : "https://i.postimg.cc/hv8MwYzd/pix6.png",
+        "description" : "Smart Hybrid 'Genius Incontigo'",
+        "price" : "600"
+    },
+    {
+        "name": "Tolex Deep Sea",
+        "img" : "https://i.postimg.cc/GpZQpRvD/pix7.jpg",
+        "description" : "Smart Hybrid 'Genius Incontigo'",
+        "price" : "900"
+    }
+]
